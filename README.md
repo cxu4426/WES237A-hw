@@ -1,7 +1,7 @@
 # WES237A-hw
 All assignments for WES237A - Intro to Embedded System Design will go here.
 ## Useful links:
-| <div style="width:180px">Feature</div> | <div style="width:200px">Details</div> | Link |
+| <div style="width:180px">Feature</div> | <div style="width:220">Details</div> | Link |
 | ---- | --- | --- |
 | Setup Guide               | How to setup the PYNQ Z2 board |https://pynq.readthedocs.io/en/v3.1/getting_started/pynq_z2_setup.html |
 | Base Overlay              | Access peripherasl on the board directly | http://pynq.readthedocs.io/en/v3.1/pynq_overlays/base_overlay.html#base-overlay |
