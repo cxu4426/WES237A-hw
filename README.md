@@ -4,8 +4,10 @@ All assignments for WES237A - Intro to Embedded System Design will go here.
 | <div style="width:180px">Feature</div> | <div style="width:220">Details</div> | Link |
 | ---- | --- | --- |
 | Setup Guide               | How to setup the PYNQ Z2 board |https://pynq.readthedocs.io/en/v3.1/getting_started/pynq_z2_setup.html |
-| Base Overlay              | Access peripherasl on the board directly | http://pynq.readthedocs.io/en/v3.1/pynq_overlays/base_overlay.html#base-overlay |
+| Base Overlay              | Access peripherals on the board directly | https://pynq.readthedocs.io/en/v2.1/pynq_overlays/base_overlay.html |
+| Base Overlay Source Code  | GitHub `base.py`. Attributes section especially helpful for finding peripherals   | https://github.com/Xilinx/PYNQ/blob/master/boards/Pynq-Z2/base/base.py |
 | `pynq` Package            | PYNQ Python package that conatins a lot of code to do a lot of things | http://pynq.readthedocs.io/en/v3.1/pynq_package.html |
 | PMOD                      | Board PMOD details    | https://pynq.readthedocs.io/en/v3.1/pynq_libraries/pmod.html#pmod |
+| Python Multiprocessing      | `multiprocessing` package for Python  | https://docs.python.org/3/library/multiprocessing.html |
 | PYMQ Community Projects   | Public projects that can be viewed and downloaded | https://www.pynq.io/community.html |
 | Resource Compilation      | GitHub that someone made that compiled resources and information on the board | https://github.com/ZeroX29a/PynqZ2 |
